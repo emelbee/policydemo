@@ -4,4 +4,4 @@
 
 - !grant
   role: !group epv/appdev/application1/delegation/consumers
-  member: !host client/node1
+  member: !host agent2
