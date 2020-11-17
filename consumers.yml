@@ -3,5 +3,5 @@
 
 
 - !grant
-  role: !group epv/appdev/application1/delegation/consumers
-  member: !host agent2
+  role: !group consumers
+  member: !host azureagent117
